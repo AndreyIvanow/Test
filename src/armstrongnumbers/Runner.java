@@ -28,6 +28,6 @@ public class Runner {
 
     public static void main(String[] args) {
         final Runner runner = new Runner();
-        runner.exec(5);
+        runner.exec(3);
     }
 }
